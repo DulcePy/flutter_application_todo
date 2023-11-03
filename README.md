@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+# ToDo
+![screen-inital](https://github.com/DulcePy/flutter_application_todo/blob/main/flutter_application_todo.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
