@@ -26,7 +26,7 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: BGColor,
-      appBar: _buidlAppBar(),
+      //appBar: _buidlAppBar(),
 
       body: Stack(
         children: [
@@ -35,11 +35,11 @@ class _HomeState extends State<Home> {
 
             child: Column(
               children: [
-                searchBox(),
-
+                //searchBox(),
                 Expanded(
                   child: ListView(
                     children: [
+                      searchBox(),
                       Container(
                         margin: const EdgeInsets.only(top: 15, bottom: 20),
                         child: const Text(
@@ -98,7 +98,7 @@ class _HomeState extends State<Home> {
                       border: InputBorder.none
                     ),
                   ),
-                )
+                ),
               ),
 
               // button add new task
@@ -124,6 +124,7 @@ class _HomeState extends State<Home> {
                 ),
               ),
             ]),
+
           ),
         ],
       ),
