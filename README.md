@@ -5,7 +5,7 @@
 </p>
 
 ### ToDo app
-<img src="https://github.com/DulcePy/flutter_application_todo/blob/main/flutter_application_todo.jpg" alt="" width="600">
+<img src="https://github.com/DulcePy/flutter_application_todo/blob/main/flutter_application_todo.jpg" alt="" width="400">
 
 
 
