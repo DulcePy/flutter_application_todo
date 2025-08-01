@@ -1,7 +1,6 @@
 ## 📍 Flutter ToDo App
 
 📱 Mobile application developed with Flutter that allows users to add, view, and manage their pending tasks.
-
 Each task can be marked as completed using an interactive checkbox, helping users keep track of their progress in an organized way. 
 
 
