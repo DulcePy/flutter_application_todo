@@ -6,7 +6,7 @@ Each task can be marked as completed using an interactive checkbox, helping user
 
 
 ### ToDo app ✔
-<img src="https://github.com/DulcePy/flutter_application_todo/blob/main/flutter_application_todo.jpg" alt="" width="400">
+<img src="https://github.com/DulcePy/flutter_application_todo/blob/main/flutter_application_todo.jpg" alt="" width="300">
 
 
 
